@@ -199,5 +199,6 @@ The scenarios below cover all key behaviours. Each row shows the sequence of com
 | 20 | `PLACE 0,0,NORTH` → `MOVE` × 4 → `MOVE` → `REPORT` | 5th MOVE ignored, robot stays at `0,4,NORTH` |
 | 21 | `PLACE 2,2,NORTH` → `LEFT` → `MOVE` → `MOVE` → `RIGHT` → `MOVE` → `REPORT` | `0,3,NORTH` |
 
----
+## 🎥 Demo Video
 
+[![Watch the demo](https://img.youtube.com/vi/34KXePwIbGw/0.jpg)](https://www.youtube.com/watch?v=34KXePwIbGw)
