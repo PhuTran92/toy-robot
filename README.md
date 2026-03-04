@@ -1,7 +1,5 @@
 # Toy Robot Simulator
 
-The following should be written in Kotlin
-
 ## Description:
 - The application is a simulation of a toy robot moving on a square tabletop, of dimensions 5 units x 5 units.
 - There are no other obstructions on the table surface.
@@ -113,8 +111,8 @@ com.example.toyrobot/
 ## How to Build
 
 ### Prerequisites
-- Android Studio Meerkat (2024.3) or later
-- JDK 11+
+- Android Studio Panda 1 (2025.3.1) or later
+- JDK 17+
 - Android SDK with API 36
 
 ### Steps
