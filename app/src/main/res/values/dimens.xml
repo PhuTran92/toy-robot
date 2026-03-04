@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Grid -->
+    <dimen name="grid_padding">8dp</dimen>
+    <dimen name="grid_cell_border_width">1dp</dimen>
+
+    <!-- Place controls -->
+    <dimen name="place_controls_padding">12dp</dimen>
+    <dimen name="place_controls_spacing">8dp</dimen>
+
+    <!-- Action buttons -->
+    <dimen name="action_buttons_spacing">8dp</dimen>
+    <dimen name="action_button_height">48dp</dimen>
+</resources>
+

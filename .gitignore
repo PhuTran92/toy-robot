@@ -1,0 +1,53 @@
+# ========================
+# Android
+# ========================
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+release/
+
+# Gradle cache & wrapper (keep gradlew / gradlew.bat, ignore downloaded binaries)
+.gradle/
+gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration — never commit machine-specific paths or signing keys
+local.properties
+keystore.properties
+*.jks
+*.keystore
+
+# ========================
+# IntelliJ IDEA / Android Studio
+# ========================
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# ========================
+# Kotlin
+# ========================
+*.kotlin_module
+
+# ========================
+# OS-generated files
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# Logs & crash reports
+# ========================
+*.log
+*.txt.bak
+crashlytics-build.properties
+fabric.properties
+
